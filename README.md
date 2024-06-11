@@ -6,7 +6,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 --->
-Hola soy Hitbit.
+<h1>Hola mi nombre es Jorge</h1>
 Aún recuerdo cuando empecé a estudiar Basic allá por el año 1989. Ha pasado mucho tiempo desde entonces, pero no he dejado de aprender y formarme con los nuevos lenguajes y tecnologías.
 La vida no me llevó por el camino de la programación, pero yo nunca he dejado de aprender: HTML, JavaScript, VBasic, Python.
 He pasado mi juventud trabajando en hoteles como recepcionista, lo cual me ha servido para aprender a relacionarme con la gente. También trabajé como profesor de informática en una academia y como consultor IT.
