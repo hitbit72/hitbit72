@@ -16,9 +16,11 @@
 [![Endpoint Security](https://github.com/hitbit72/python-web/blob/main/assets/endpoint_security204x204.png)](https://www.credly.com/badges/a0b8e943-9d7d-43ed-9cbc-8fe8b5ef36b0/public_url)
 --->
 
-<a href="https://www.credly.com/badges/8e46806f-c34f-4ebc-bb25-153fb5312676/public_url" target="_blank"><img src="https://github.com/hitbit72/python-web/blob/main/assets/webdevelopment_python204x204.png" style="height: 50%; width:50%;"/></a>
-<a href="https://www.credly.com/badges/8bf27c32-5bb5-4966-9bd7-aa6a674c3c45/public_url" target="_blank"><img src="https://github.com/hitbit72/python-web/blob/main/assets/introduction_cybersecurity204x204.png" style="height: 50%; width:50%;"/></a>
-<a href="https://www.credly.com/badges/a0b8e943-9d7d-43ed-9cbc-8fe8b5ef36b0/public_url" target="_blank"><img src="https://github.com/hitbit72/python-web/blob/main/assets/endpoint_security204x204.png" style="height: 50%; width:50%;"/></a>
+<div style="display: inline-block; margin: auto;">
+<a href="https://www.credly.com/badges/8e46806f-c34f-4ebc-bb25-153fb5312676/public_url" target="_blank"><img src="https://github.com/hitbit72/python-web/blob/main/assets/webdevelopment_python204x204.png" style="height: 10%; width:10%;"/></a>
+<a href="https://www.credly.com/badges/8bf27c32-5bb5-4966-9bd7-aa6a674c3c45/public_url" target="_blank"><img src="https://github.com/hitbit72/python-web/blob/main/assets/introduction_cybersecurity204x204.png" style="height: 10%; width:10%;"/></a>
+<a href="https://www.credly.com/badges/a0b8e943-9d7d-43ed-9cbc-8fe8b5ef36b0/public_url" target="_blank"><img src="https://github.com/hitbit72/python-web/blob/main/assets/endpoint_security204x204.png" style="height: 10%; width:10%;"/></a>
+</div>
 
 <!---
 hitbit72/hitbit72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
