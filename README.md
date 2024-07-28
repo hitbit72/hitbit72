@@ -8,7 +8,7 @@
 --->
 <h1>Hola mi nombre es Jorge</h1>
 <p>Aún recuerdo cuando empecé a estudiar Basic allá por el año 1989. Ha pasado mucho tiempo desde entonces, pero no he dejado de aprender y formarme con los nuevos lenguajes y tecnologías.</p>
-
+<p>Ahora soy programador Freelance full-stack python</p>
 
 <!---
 hitbit72/hitbit72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
